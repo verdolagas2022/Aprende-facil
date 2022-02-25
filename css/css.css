@@ -21,3 +21,13 @@ h1{
     text-align: justify;
     font-size: 66px;
 }
+.btn1{
+    background-color: blue;
+      color: #FB0A8A;
+      border: 3px solid #6BE309;
+      font-family: 'Courier New', Courier, monospace;
+}
+.btn1 :hover{
+    background-color: #0916E3;
+    color: #0AFD1E;
+}
